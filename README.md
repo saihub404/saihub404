@@ -13,7 +13,7 @@
 - **Methods**: Data Cleaning, EDA, Predictive Modeling
 
 ## 📂 Featured Projects
-- [**Project 1: EDA on Titanic Dataset**](https://github.com/saiaganeshvoodi/EDA_Project)  
+- [**Project 1: EDA on Titanic Dataset**](https://github.com/saiganeshvoodi/EDA_Project)  
   Exploratory Data Analysis on the Titanic dataset to uncover survival patterns.
 
 ## 📫 Let's Connect
