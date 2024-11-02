@@ -17,5 +17,5 @@
   Exploratory Data Analysis on the Titanic dataset to uncover survival patterns.
 
 ## 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)[LinkedIn](https://www.linkedin.com/in/saiganeshvoodi)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiganeshvoodi)
 - Email: saiganeshvoodi@gmail.com
