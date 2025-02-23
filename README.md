@@ -2,7 +2,7 @@
 
 🎓 Data Analytics Student | Aspiring Data Scientist  
 🌟 Passionate about data-driven insights and innovative solutions  
-🔍 Currently exploring [Project or Field of Interest, e.g., Machine Learning and Data Visualization]  
+
 
 ## 🔧 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
