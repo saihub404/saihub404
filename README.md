@@ -12,9 +12,6 @@
 - **Libraries & Tools**: Pandas, Scikit-Learn, Matplotlib, Tableau
 - **Methods**: Data Cleaning, EDA, Predictive Modeling
 
-## 📂 Featured Projects
-- [**Project 1: EDA on Titanic Dataset**](https://github.com/saiganeshvoodi/EDA_Project)  
-  Exploratory Data Analysis on the Titanic dataset to uncover survival patterns.
 
 ## 📫 Let's Connect
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiganeshvoodi)
