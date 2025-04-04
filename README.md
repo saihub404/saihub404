@@ -1,4 +1,4 @@
-# Hi, I'm Sai Ganesh Voodi! 👋
+# Hi, I'm Sai Ganesh Voodi! 👋 
 
 🎓 Data Analytics Student | Aspiring Data Scientist  
 🌟 Passionate about data-driven insights and innovative solutions  
