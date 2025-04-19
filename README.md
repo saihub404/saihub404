@@ -1,10 +1,10 @@
 # 👋 Hi there, I'm Sai Ganesh Voodi
 
-🚀 I'm an AI and Data Analytics professional with a strong foundation in building intelligent, scalable, and cloud-native machine learning systems. I love working on real-world problems using cutting-edge tools like GenAI, Langchain, and vector databases.
+I'm an AI and Data Analytics professional with a strong foundation in building intelligent, scalable, and cloud-native machine learning systems. I love working on real-world problems using cutting-edge tools like GenAI, Langchain, and vector databases.
 
 ---
 
-## 🧠 About Me
+## About Me
 
 - 🔍 Currently focused on **AI/GenAI**, **multimodal agents**, and **LLM-driven applications**
 - 🌐 Hands-on with **Langchain**, **LangGraph**, **Hugging Face**, **OpenAI**, **LLama**, **Anthropic**, and **Microsoft AutoGen**
@@ -22,12 +22,12 @@
 
 ---
 
-## 📬 Let's Connect
+## Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/saiganeshvoodi)
 - ✉️ saiganeshvoodi@gmail.com
 
 ---
 
-> “Driven by curiosity. Powered by data. Inspired by impact.” 🚀
+> “Driven by curiosity. Powered by data. Inspired by impact.” 
 
