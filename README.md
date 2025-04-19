@@ -1,18 +1,42 @@
-# Hi, I'm Sai Ganesh Voodi! 👋
+# 👋 Hi there, I'm Sai Ganesh Voodi
 
-🎓 Data Analytics Student | Aspiring Data Scientist  
-🌟 Passionate about data-driven insights and innovative solutions  
+🚀 I'm an AI and Data Analytics professional with a strong foundation in building intelligent, scalable, and cloud-native machine learning systems. I love working on real-world problems using cutting-edge tools like GenAI, Langchain, and vector databases.
 
+---
 
-## 🔧 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-- **Languages**: Python, SQL
-- **Libraries & Tools**: Pandas, Scikit-Learn, Matplotlib, Tableau
-- **Methods**: Data Cleaning, EDA, Predictive Modeling
+## 🧠 About Me
 
+- 🔍 Currently focused on **AI/GenAI**, **multimodal agents**, and **LLM-driven applications**
+- 🌐 Hands-on with **Langchain**, **LangGraph**, **Hugging Face**, **OpenAI**, **LLama**, **Anthropic**, and **Microsoft AutoGen**
+- ☁️ Working across cloud platforms: **AWS**, **GCP**, **Azure**
+- 📦 Experienced with **Kubernetes**, **Docker**, **RESTful APIs**, and **microservices**
+- 📊 Background in **data engineering**, **ETL pipelines**, and **predictive modeling**
 
-## 📫 Let's Connect
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saiganeshvoodi)
-- Email: saiganeshvoodi@gmail.com
+---
+
+## 🛠️ Tech Stack
+
+| AI/ML       | GenAI/LLMs                 | Cloud/DevOps        | Data/Eng Tools     | Visualization      |
+|-------------|----------------------------|----------------------|---------------------|---------------------|
+| PyTorch, TensorFlow, Keras | Langchain, LangGraph, HuggingFace, OpenAI | AWS, Azure, GCP, Kubernetes, Docker | Airflow, Kafka, SQL, Python, Pandas | Power BI, Tableau, Seaborn |
+
+---
+
+## 📂 Featured Projects
+
+- 🔗 [Stock Price Prediction with Sentiment + LSTM](https://github.com/saiganeshvoodi)
+- 🔗 [Customer Sentiment Analysis Dashboard](https://github.com/saiganeshvoodi)
+- 🔗 [Facial Expression Recognition (CNN)](https://github.com/saiganeshvoodi)
+- 🔗 [GenAI Multi-Agent Pipeline (LangGraph + Vertex AI)](https://github.com/saiganeshvoodi)
+
+---
+
+## 📬 Let's Connect
+
+- 🌐 [LinkedIn](https://www.linkedin.com/in/saiganeshvoodi)
+- ✉️ saiganeshvoodi@gmail.com
+
+---
+
+> “Driven by curiosity. Powered by data. Inspired by impact.” 🚀
+
