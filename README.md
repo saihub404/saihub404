@@ -9,7 +9,7 @@ I'm an AI and Data Analytics professional with a strong foundation in building i
 - 🔍 Currently focused on **AI/GenAI**, **multimodal agents**, and **LLM-driven applications**
 - 🌐 Hands-on with **Langchain**, **LangGraph**, **Hugging Face**, **OpenAI**, **LLama**, **Anthropic**, and **Microsoft AutoGen**
 - ☁️ Working across cloud platforms: **AWS**, **GCP**, **Azure**
-- 📦 Experienced with **Kubernetes**, **Docker**, **RESTful APIs**, and **microservices**
+- 📦 Experienced with **Kubernetes**, **Docker**, 
 - 📊 Background in **data engineering**, **ETL pipelines**, and **predictive modeling**
 
 ---
