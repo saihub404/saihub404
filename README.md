@@ -22,15 +22,6 @@
 
 ---
 
-## 📂 Featured Projects
-
-- 🔗 [Stock Price Prediction with Sentiment + LSTM](https://github.com/saiganeshvoodi)
-- 🔗 [Customer Sentiment Analysis Dashboard](https://github.com/saiganeshvoodi)
-- 🔗 [Facial Expression Recognition (CNN)](https://github.com/saiganeshvoodi)
-- 🔗 [GenAI Multi-Agent Pipeline (LangGraph + Vertex AI)](https://github.com/saiganeshvoodi)
-
----
-
 ## 📬 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/saiganeshvoodi)
