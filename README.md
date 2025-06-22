@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sai Ganesh Voodi
+# 👋 Hi there, I'm Sai Ganesh 
 
 I'm an AI and Data Analytics professional with a strong foundation in building intelligent, scalable, and cloud-native machine learning systems. I love working on real-world problems using cutting-edge tools like GenAI, Langchain, and vector databases.
 
@@ -19,13 +19,6 @@ I'm an AI and Data Analytics professional with a strong foundation in building i
 | AI/ML       | GenAI/LLMs                 | Cloud/DevOps        | Data/Eng Tools     | Visualization      |
 |-------------|----------------------------|----------------------|---------------------|---------------------|
 | PyTorch, TensorFlow, Keras | Langchain, LangGraph, HuggingFace, OpenAI | AWS, Azure, GCP, Kubernetes, Docker | Airflow, Kafka, SQL, Python, Pandas | Power BI, Tableau, Seaborn |
-
----
-
-## Let's Connect
-
-- 🌐 [LinkedIn](https://www.linkedin.com/in/saiganeshvoodi)
-- ✉️ saiganeshvoodi@gmail.com
 
 ---
 
