@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Sai Ganesh 
+# 👋 Hi there, I'm Sai 
 
 I'm an AI and Data Analytics professional with a strong foundation in building intelligent, scalable, and cloud-native machine learning systems. I love working on real-world problems using cutting-edge tools like GenAI, Langchain, and vector databases.
 
