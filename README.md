@@ -24,19 +24,13 @@ My experience spans enterprise networking, cloud infrastructure-as-code, and adv
 
 These projects highlight my ability to deliver high-impact, quantified solutions across different domains.
 
-### 1. Cisco Network Automation Framework (High-Impact Project)
-
-* **Goal:** Enable remote, automated network configuration and incident remediation for a large enterprise.
-* **Technology:** **Splunk**, **Python**, **REST APIs**, and mobile integration.
-* **Achievement:** Developed and deployed the framework that **reduced manual intervention by over 35%** and cut the **incident response time by 20%**.
-
-### 2. Capstone: Crime Incident Forecasting & Response Optimization
+### 1. Capstone: Crime Incident Forecasting & Response Optimization
 
 * **Goal:** Apply advanced machine learning to public safety data to improve response efficiency.
 * **Technical Details:** Compared **SARIMA, LSTM, Random Forest** on a **1.3M+ row dataset**. Used **DBSCAN** and **Folium** for geospatial analysis.
 * **Achievement:** Achieved a top model **accuracy of over 85%** in crime trend prediction and **reduced prediction error by 25%** for emergency response times.
 
-### 3. Stock Price Prediction System
+### 2. Stock Price Prediction System
 
 * **Goal:** Build a robust, comparative system for financial time-series prediction.
 * **Technical Details:** Employed and compared models including **Logistic Regression, XGBoost, RNN, and LSTM**.
