@@ -1,25 +1,5 @@
 # Hi, I'm Sai Ganesh 👋
 
-**Cisco-Certified Engineer | Network Automation & Machine Learning Specialist**
-
-A highly accomplished engineer focused on the convergence of networking, automation, and data science. My expertise is centered on building resilient, scalable infrastructure (CCNP-certified) and applying advanced models to solve operational and analytical challenges.
-
----
-
-## 🛠️ Core Technical Stack
-
-My experience spans enterprise networking, cloud infrastructure-as-code, and advanced Python development.
-
-| Category | Key Tools & Platforms |
-| :--- | :--- |
-| **Networking & R&S** | **Cisco Nexus 3K/9K**, **Catalyst 3K/9K**, ASR, Cisco IOS/NX-OS, BGP, OSPF |
-| **Automation/DevOps** | **Python**, Shell Scripting, **REST APIs**, **Git**, **Ansible** (Implied), **docker**, **Kubernetes** |
-| **Cloud & Deployment** | **Google Cloud (GCP), AWS**, Vertex AI, VM Provisioning, **Splunk** |
-| **Machine Learning/AI** | **TensorFlow, PyTorch, Scikit-learn**, LSTM, XGBoost, SARIMA, CNN |
-| **Data Tools & BI** | **SQL**, R, Tableau, Power BI, DBSCAN, Folium |
-
----
-
 ## 💻 Featured Projects
 
 These projects highlight my ability to deliver high-impact, quantified solutions across different domains.
@@ -50,6 +30,3 @@ My professional qualifications validate a strong foundation in both infrastructu
 
 ## 🤝 Let's Connect
 
-I am actively seeking roles in Network Automation, DevOps, and Cloud Infrastructure.
-
-* **Email:** saiganesh234468@gmail.com
