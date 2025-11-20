@@ -1,6 +1,6 @@
 # Hi, I'm Sai Ganesh 👋
 
-## 💻 Featured Projects
+## 💻 Featured Projects 
 
 These projects highlight my ability to deliver high-impact, quantified solutions across different domains.
 
