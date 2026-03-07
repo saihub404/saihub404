@@ -1,7 +1,7 @@
 # Hi, I'm Sai Ganesh 👋
 
 ## 💻 Featured Projects 
-
+ 
 These projects highlight my ability to deliver high-impact, quantified solutions across different domains.
 
 ### 1. Capstone: Crime Incident Forecasting & Response Optimization
